@@ -38,7 +38,7 @@
 | /info/2/7                    | string | usernameColor         |
 | /info/3/0                    | number | 粉丝勋章 level 牌子等级          |
 | /info/3/1                    | string | 粉丝勋章 label 牌子名字          |
-| /info/3/10                   | number | 粉丝勋章 guardLevel             |
+| /info/3/10                   | number | 粉丝勋章 guardLevel 大航海等级   |
 | /info/3/11                   | number | 粉丝勋章 isLight                |
 | /info/3/12                   | number | 粉丝勋章 anchorId 发布者uid      |
 | /info/3/2                    | string | 粉丝勋章 anchorUsername 发布者   |
