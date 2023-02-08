@@ -120,7 +120,7 @@
 | LIVE_PLAYER_LOG_RECYCLE            |              |
 | LIVE_INTERNAL_ROOM_LOGIN           |              |
 | LIVE_OPEN_PLATFORM_GAME            |              |
-| WATCHED_CHANGE                     |              |
+| WATCHED_CHANGE                     | 观看人数变化  |
 | USER_TITLE_GET                     |              |
 | GUARD_BENEFIT_RECEIVE              |              |
 | GUARD_HONOR_THOUSAND               |              |
