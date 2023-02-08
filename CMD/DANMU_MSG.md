@@ -36,14 +36,14 @@
 | /info/2/5                    | number |                       |
 | /info/2/6                    | number |                       |
 | /info/2/7                    | string | usernameColor         |
-| /info/3/0                    | number | 粉丝勋章 level            |
-| /info/3/1                    | string | 粉丝勋章 label            |
-| /info/3/10                   | number | 粉丝勋章 guardLevel       |
-| /info/3/11                   | number | 粉丝勋章 isLight          |
-| /info/3/12                   | number | 粉丝勋章 anchorId         |
-| /info/3/2                    | string | 粉丝勋章 anchorUsername   |
-| /info/3/3                    | number | 粉丝勋章 shortRoomID      |
-| /info/3/4                    | number | 粉丝勋章 medalColor       |
+| /info/3/0                    | number | 粉丝勋章 level 牌子等级          |
+| /info/3/1                    | string | 粉丝勋章 label 牌子名字          |
+| /info/3/10                   | number | 粉丝勋章 guardLevel             |
+| /info/3/11                   | number | 粉丝勋章 isLight                |
+| /info/3/12                   | number | 粉丝勋章 anchorId 发布者uid      |
+| /info/3/2                    | string | 粉丝勋章 anchorUsername 发布者   |
+| /info/3/3                    | number | 粉丝勋章 shortRoomID 发布者房间号 |
+| /info/3/4                    | number | 粉丝勋章 medalColor 牌子颜色     |
 | /info/3/5                    | string | 粉丝勋章 special          |
 | /info/3/6                    | number | 粉丝勋章 iconId           |
 | /info/3/7                    | number | 粉丝勋章 medalColorBorder |
