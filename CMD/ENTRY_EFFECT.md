@@ -1,0 +1,30 @@
+| 位置                            | 类型     | 说明  |
+|-------------------------------|--------|-----|
+| /data/basemap_url             | string |     |
+| /data/business                | number |     |
+| /data/copy_color              | string |     |
+| /data/copy_writing            | string |     |
+| /data/copy_writing_v2         | string |     |
+| /data/effect_silent_time      | number |     |
+| /data/effective_time          | number |     |
+| /data/effective_time_new      | number |     |
+| /data/face                    | string |     |
+| /data/highlight_color         | string |     |
+| /data/icon_list               | null   |     |
+| /data/id                      | number |     |
+| /data/identities              | number |     |
+| /data/max_delay_time          | number |     |
+| /data/mobile_dynamic_url_webp | string |     |
+| /data/mock_effect             | number |     |
+| /data/priority                | number |     |
+| /data/privilege_type          | number |     |
+| /data/show_avatar             | number |     |
+| /data/target_id               | number |     |
+| /data/trigger_time            | number |     |
+| /data/uid                     | number |     |
+| /data/web_basemap_url         | string |     |
+| /data/web_close_time          | number |     |
+| /data/web_dynamic_url_apng    | string |     |
+| /data/web_dynamic_url_webp    | string |     |
+| /data/web_effect_close        | number |     |
+| /data/web_effective_time      | number |     |
