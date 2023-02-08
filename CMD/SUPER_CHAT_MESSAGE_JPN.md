@@ -1,0 +1,42 @@
+| 位置                             | 类型     | 说明    |
+|--------------------------------|--------|-------|
+| /data/background_bottom_color  | string |       |
+| /data/background_color         | string |       |
+| /data/background_icon          | string |       |
+| /data/background_image         | string |       |
+| /data/background_price_color   | string |       |
+| /data/end_time                 | number |       |
+| /data/gift/gift_id             | number |       |
+| /data/gift/gift_name           | string |       |
+| /data/gift/num                 | number |       |
+| /data/id                       | string | sc ID |
+| /data/is_ranked                | number |       |
+| /data/medal_info/anchor_roomid | number |       |
+| /data/medal_info/anchor_uname  | string |       |
+| /data/medal_info/icon_id       | number |       |
+| /data/medal_info/medal_color   | string |       |
+| /data/medal_info/medal_level   | number |       |
+| /data/medal_info/medal_name    | string |       |
+| /data/medal_info/special       | string |       |
+| /data/medal_info/target_id     | number |       |
+| /data/message                  | string |       |
+| /data/message_jpn              | string |       |
+| /data/price                    | number |       |
+| /data/rate                     | number |       |
+| /data/start_time               | number |       |
+| /data/time                     | number |       |
+| /data/token                    | string |       |
+| /data/ts                       | number |       |
+| /data/uid                      | string |       |
+| /data/user_info/face           | string |       |
+| /data/user_info/face_frame     | string |       |
+| /data/user_info/guard_level    | number |       |
+| /data/user_info/is_main_vip    | number |       |
+| /data/user_info/is_svip        | number |       |
+| /data/user_info/is_vip         | number |       |
+| /data/user_info/level_color    | string |       |
+| /data/user_info/manager        | number |       |
+| /data/user_info/title          | string |       |
+| /data/user_info/uname          | string |       |
+| /data/user_info/user_level     | number |       |
+| /roomid                        | string |       |
