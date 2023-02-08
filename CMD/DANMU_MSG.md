@@ -29,9 +29,9 @@
 | /info/14                     | number | lpl                   |
 | /info/15                     | number |                       |
 | /info/2/0                    | number | uid                   |
-| /info/2/1                    | string | 用户名                   |
-| /info/2/2                    | number | isAdmin               |
-| /info/2/3                    | number | 	isVip                |
+| /info/2/1                    | string | 用户名                 |
+| /info/2/2                    | number | isAdmin 是否为房管     |
+| /info/2/3                    | number | isVip                 |
 | /info/2/4                    | number | isSvip                |
 | /info/2/5                    | number |                       |
 | /info/2/6                    | number |                       |
